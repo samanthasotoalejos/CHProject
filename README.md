@@ -1,2 +1,2 @@
-# PoliMeter
+# CHProject
 CruzHacks
